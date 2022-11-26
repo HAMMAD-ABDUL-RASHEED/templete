@@ -5,7 +5,7 @@
 </head>
 <body>
 
-<H1>	HELLO</H1>
+<H1>HELLO</H1>
 
 
 </body>
